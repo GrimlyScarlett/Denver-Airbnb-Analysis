@@ -14,6 +14,9 @@ The analysis is based on publicly available Airbnb data for Denver, Colorado.
 Tableau Link: 
 https://public.tableau.com/views/DenverAirbnbAnalysis/Denver_Airbnb_analysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+Data from: 
+Inside Airbnb. (2008-Present). Denver, Colorado, United Staets of America: Inside Airbnb. Retrieved from https://insideairbnb.com/get-the-data/
+
 To run the code and reproduce the analysis, you will need:
 Python 3.x
 Jupyter Notebook
